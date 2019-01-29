@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2043
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "tic_tac_toe", "tic_tac_toe\tic_tac_toe.vcxproj", "{774DAE63-0340-4D48-9D39-0B75DDF3ED18}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{774DAE63-0340-4D48-9D39-0B75DDF3ED18}.Debug|x64.ActiveCfg = Debug|x64
+		{774DAE63-0340-4D48-9D39-0B75DDF3ED18}.Debug|x64.Build.0 = Debug|x64
+		{774DAE63-0340-4D48-9D39-0B75DDF3ED18}.Debug|x86.ActiveCfg = Debug|Win32
+		{774DAE63-0340-4D48-9D39-0B75DDF3ED18}.Debug|x86.Build.0 = Debug|Win32
+		{774DAE63-0340-4D48-9D39-0B75DDF3ED18}.Release|x64.ActiveCfg = Release|x64
+		{774DAE63-0340-4D48-9D39-0B75DDF3ED18}.Release|x64.Build.0 = Release|x64
+		{774DAE63-0340-4D48-9D39-0B75DDF3ED18}.Release|x86.ActiveCfg = Release|Win32
+		{774DAE63-0340-4D48-9D39-0B75DDF3ED18}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6F8AB35D-0447-4E65-A4AF-863028471630}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,3 @@
+﻿  Source.c
+c:\users\luisg\source\repos\calpoly c++ & c workshop\strings\strings\source.c(21): warning C4013: 'system' undefined; assuming extern returning int
+  strings.vcxproj -> C:\Users\luisg\source\repos\CalPoly C++ & C workshop\strings\Debug\strings.exe
